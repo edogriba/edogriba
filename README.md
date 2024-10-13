@@ -1,4 +1,4 @@
-👋 Hi there,
+# Hi there 👋
 
 > I'm Edoardo Gribaldo an Italian Computer Science and Engineering graduate student currently on the first year of Master's degree at Politecnico di Milano:
 
