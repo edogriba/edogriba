@@ -7,6 +7,6 @@
 - 📈 My courses at Politecnico di Milano focuses on Artificial Intelligence and Data Science
 - 🤓 I know Python, C, Java, SQL and NoSQL databases
 - 💻 I like web development! (I did projects in HTML, CSS, JavaScript and a little bit of React)
-- 📫 How to reach me: [...](https://it.linkedin.com/in/edoardo-gribaldo-548384222)
+- 📫 How to reach me: [Linkedin](https://it.linkedin.com/in/edoardo-gribaldo-548384222)
 - 📚 Hobbies: I love reading, in particular books from the last century, my favorite writers are Hemingway, Camus and Orwell. I really like skiing, playing tennis and chess.
 
