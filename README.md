@@ -1,6 +1,6 @@
 👋 Hi there,
 
-I'm Edoardo Gribaldo an Italian Computer Science and Engineering graduate student currently on the first year of Master's degree at Politecnico di Milano:
+> I'm Edoardo Gribaldo an Italian Computer Science and Engineering graduate student currently on the first year of Master's degree at Politecnico di Milano:
 
 - 🧑‍💻 I love learning about new tech stuff!
 - 📚 I’m currently enrolled in a Master's Degree at Politecnico di Milano in Computer Science and Engineering (T2I track)
